@@ -5,3 +5,8 @@ resources/
 
 # Editor
 .vscode/
+
+# nix / direnv
+.direnv
+shell.nix
+.envrc
