@@ -1,10 +1,29 @@
 # Hugo configuration file
-title: My Site
+title: Karl in Terrorist Town
 
 # import hextra as module
 module:
   imports:
-  - path: github.com/imfing/hextra
+    - path: github.com/imfing/hextra
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  de:
+    contentDir: content/de
+    disabled: false
+    languageCode: de-DE
+    languageDirection: ltr
+    languageName: Deutsch
+    title: Karl in Terroristen Stadt
+    weight: 1
+  en:
+    disabled: false
+    languageCode: ""
+    languageDirection: ""
+    languageName: ""
+    title: "Karl in Terrorist Town"
+    weight: 0
 
 markup:
   # allow raw html
