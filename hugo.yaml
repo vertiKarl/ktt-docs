@@ -37,14 +37,11 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: About
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      url: "https://github.com/vertiKarl"
       weight: 3
     - name: Search
       weight: 4
@@ -52,14 +49,14 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/vertiKarl/ktt-docs"
       params:
         icon: github
-    - name: Twitter
+    - name: Discord
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://discord.gg/QA8TaCjCwg"
       params:
-        icon: x-twitter
+        icon: discord
 
 params:
   navbar:
@@ -70,6 +67,11 @@ params:
     displayCopyright: false
     displayPoweredBy: true
 
+  # Fix for my broken firefox and also looks nice
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: full
+
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/vertiKarl/ktt-docs/edit/main/content"
