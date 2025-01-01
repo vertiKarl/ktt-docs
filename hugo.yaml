@@ -15,7 +15,29 @@ languages:
     languageCode: de-DE
     languageDirection: ltr
     languageName: Deutsch
-    title: Karl in Terroristen Stadt
+    title: "Karl in Terrorist Town"
+    menu:
+      main:
+        - name: Über uns
+          pageRef: /about
+          weight: 2
+        - name: Kontakt ↗
+          url: "https://github.com/vertiKarl"
+          weight: 3
+        - name: Suche
+          weight: 4
+          params:
+            type: search
+        - name: GitHub
+          weight: 5
+          url: "https://github.com/vertiKarl/ktt-docs"
+          params:
+            icon: github
+        - name: Discord
+          weight: 6
+          url: "https://discord.gg/QA8TaCjCwg"
+          params:
+            icon: discord
     weight: 1
   en:
     disabled: false
@@ -23,6 +45,28 @@ languages:
     languageDirection: ""
     languageName: ""
     title: "Karl in Terrorist Town"
+    menu:
+      main:
+        - name: About
+          pageRef: /about
+          weight: 2
+        - name: Contact ↗
+          url: "https://github.com/vertiKarl"
+          weight: 3
+        - name: Search
+          weight: 4
+          params:
+            type: search
+        - name: GitHub
+          weight: 5
+          url: "https://github.com/vertiKarl/ktt-docs"
+          params:
+            icon: github
+        - name: Discord
+          weight: 6
+          url: "https://discord.gg/QA8TaCjCwg"
+          params:
+            icon: discord
     weight: 0
 
 markup:
@@ -34,29 +78,6 @@ markup:
   # enable hextra syntax highlight
   highlight:
     noClasses: false
-
-menu:
-  main:
-    - name: About
-      pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/vertiKarl"
-      weight: 3
-    - name: Search
-      weight: 4
-      params:
-        type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/vertiKarl/ktt-docs"
-      params:
-        icon: github
-    - name: Discord
-      weight: 6
-      url: "https://discord.gg/QA8TaCjCwg"
-      params:
-        icon: discord
 
 params:
   navbar:
