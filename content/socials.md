@@ -5,7 +5,7 @@ type: about
 
 ## vertiKarl
 
-<img src="https://cdn.discordapp.com/avatars/175642620767371265/69d51404cd21275d0a426779a0348066.webp?size=128" />
+<img src="https://cdn.discordapp.com/avatars/175642620767371265/ef52f152b46ac0c298e4f3548cf6a811?size=128" />
 
 - [Twitch](https://twitch.tv/vertiKarl)
 - [Steam](https://steamcommunity.com/id/vertiKarl/)
