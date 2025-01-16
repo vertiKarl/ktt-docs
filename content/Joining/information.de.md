@@ -19,7 +19,7 @@ Ihr könnt aber auf meinem [Twitch](https://twitch.tv/vertiKarl) vorbeischauen u
 
 ### (optional) 1.1 Schnellere Verbindung auf den Server
 
-Um die Wartezeit, beim ersten Beitritt, zu reduzieren, empfiehlt es sich die [Workshop Collektionen](https://steamcommunity.com/sharedfiles/filedetails/?id=3381437762) (mit allen Addons) schonmal vorab zu abonnieren und herunter zu laden (Etwas um die 5GB sollten es über Steam sein).\
+Um die Wartezeit, beim ersten Beitritt, zu reduzieren, empfiehlt es sich die [Workshop Kollektionen](#die-workshop-kollektion-abonnieren) (mit allen Addons) schonmal vorab zu abonnieren und herunter zu laden (Etwas um die 5GB sollten es über Steam sein).\
 
 **Ihr müsst "Alle abonnieren" anklicken und dies für alle verlinkten Kollektionen wiederholen.**
 
@@ -57,7 +57,7 @@ _Um die Konsole zu öffnen muss man eine Taste dafür in den Einstellungen beleg
 ### Die Workshop Kollektion abonnieren
 
 Stelle sicher, dass du nicht nur die Hauptkollektion sondern auch alle verlinkten Kollektionen abonniert hast:\
-https://steamcommunity.com/sharedfiles/filedetails/?id=3381437762
+https://steamcommunity.com/sharedfiles/filedetails/?id=3404557636
 
 ### Überprüfe das Passwort
 

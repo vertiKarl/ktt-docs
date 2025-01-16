@@ -17,9 +17,9 @@ If you are missing one or maybe even both, feel free to buy them via my ref-link
 If you are enjoying playing TTT with us, I'd really appreciate a donation: ~~https://ko-fi.com/vertikarl~~ (currently disabled)\
 Though you can check out my [Twitch](https://twitch.tv/vertiKarl) and subscribe over there! (Will most likely stream TTT aswell)
 
-### (optional) 1.1 Increasing connection speed
+### (recommended) 1.1 Increasing connection speed
 
-To reduce the wait when joining for the first time, I'd recommend to subscribe to and download the [workshop collektionen](https://steamcommunity.com/sharedfiles/filedetails/?id=3381437762) (with all addons) in advance (Size should be around 5GB).\
+To reduce the wait when joining for the first time, I'd recommend to subscribe to and download the [workshop collections](#subscribe-to-the-workshop-collection) (with all addons) in advance.\
 
 **You need to click "Subscribe to all" and also repeat that for all the linked collections.**
 
@@ -58,7 +58,7 @@ To open the console you need to bind it to a key via the settings.
 ### Subscribe to the workshop collection
 
 Make sure to subscribe not only to the main collection but also all collections linked in it:\
-https://steamcommunity.com/sharedfiles/filedetails/?id=3381437762
+https://steamcommunity.com/sharedfiles/filedetails/?id=3404557636
 
 ### Check the password
 
