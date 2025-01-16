@@ -1,5 +1,7 @@
 # Karl in Terrorist Town - Documentation
 
+[![Deploy Hugo site to Pages](https://github.com/vertiKarl/ktt-docs/actions/workflows/pages.yaml/badge.svg)](https://github.com/vertiKarl/ktt-docs/actions/workflows/pages.yaml)
+
 This is the documentation for my invite-only TTT server hosted at `ttt.karlology.eu`.
 If you are interested in joining, check out this [page](https://vertikarl.github.io/ktt-docs/en/joining/).
 
@@ -8,8 +10,6 @@ This project is built on:
 - [Hugo](https://gohugo.io/)
 - [Hextra](https://github.com/imfing/hextra)
 - [GitHub Pages](https://pages.github.com/)
-
-[![Deploy Hugo site to Pages](https://github.com/vertiKarl/ktt-docs/actions/workflows/pages.yaml/badge.svg)](https://github.com/vertiKarl/ktt-docs/actions/workflows/pages.yaml)
 
 ## Local Development
 
