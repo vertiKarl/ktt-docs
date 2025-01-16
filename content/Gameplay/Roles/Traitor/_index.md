@@ -5,5 +5,5 @@ prev: gameplay/Roles/Traitor
 weight: 2
 ---
 
-Team: Traitor
-Goal: Kill all non-traitors.
+**Team**: Traitor
+**Goal**: Kill all non-traitors.

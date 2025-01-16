@@ -5,4 +5,4 @@ prev: gameplay/roles
 weight: 1
 ---
 
-Team: Innocent
+**Team**: Innocent
