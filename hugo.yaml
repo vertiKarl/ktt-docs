@@ -41,9 +41,9 @@ languages:
     weight: 1
   en:
     disabled: false
-    languageCode: ""
-    languageDirection: ""
-    languageName: ""
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
     title: "Karl in Terrorist Town"
     menu:
       main:
