@@ -14,3 +14,5 @@ prev: gameplay/Roles/Traitor
   - Das Ankh heilt seinen Besitzer, wenn er sich in der Nähe befindet.
 
 Tipp: Die Farbe der Runen auf dem Ankh zeigt das Team des aktuellen Besitzers!
+
+<small>Quelle: [Steam Workshop - Pharaoh Rolle](https://steamcommunity.com/sharedfiles/filedetails/?id=2002040119)</small>

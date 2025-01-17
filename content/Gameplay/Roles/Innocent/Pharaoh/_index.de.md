@@ -14,3 +14,5 @@ prev: gameplay/Roles/Innocent
   - Das Ankh heilt seinen Besitzer, wenn dieser in der Nähe ist.
 
 Tipp: Die Farbe der Runen auf dem Ankh zeigt das Team des aktuellen Besitzers!
+
+<small>Quelle: [Steam Workshop - Pharaoh Rolle](https://steamcommunity.com/sharedfiles/filedetails/?id=2002040119)</small>
