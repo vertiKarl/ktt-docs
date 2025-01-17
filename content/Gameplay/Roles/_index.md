@@ -6,26 +6,18 @@ sidebar:
   open: true
 ---
 
-## List of all roles.
+## Active roles.
 
-This includes currently disabled ones.
-
-### Team Innocent:
+### Team Innocent
 
 - [Innocent](innocent)
-- [Survivalist](innocent/survivalist)
 - [Shinigami](innocent/shinigami)
-- [Spy](innocent/spy)
-- [Medium](innocent/medium)
-- [Pharaoh](innocent/pharaoh)
+- [Survivalist](innocent/survivalist)
 - [Wrath](innocent/wrath)
 - [Spectre](innocent/spectre)
-- [Seance](innocent/seance)
-- [Undercover Agent](innocent/undercover-agent)
-- [Paranoid](innocent/paranoid)
 - [Sacrifice](innocent/sacrifice)
 
-#### Detective:
+#### Detective
 
 - [Detective](innocent/detective)
 - [Sheriff](innocent/detective/sheriff)
@@ -34,7 +26,58 @@ This includes currently disabled ones.
 
 \* also listed under traitor
 
-### Traitor:
+### Team Traitor
+
+- [Traitor](traitor)
+- [Mesmerist](traitor/mesmerist)
+- [Defective](traitor/defective)\*
+- [Ambusher](traitor/ambusher)
+
+\* also listed under detective
+
+### Neutral
+
+#### Killer Roles
+
+- [Doppelganger](doppelganger)
+- [Serialkiller](serialkiller)
+
+#### Just fun
+
+- [Swapper](jester/swapper)
+- [Pirate](pirate)
+- [Kobold Hoarder](kobold%20holder)
+- [Amnesiac](amnesiac)
+
+## List of all roles
+
+This includes currently disabled ones.
+
+### Team Innocent
+
+- [Innocent](innocent)
+- [Shinigami](innocent/shinigami)
+- [Survivalist](innocent/survivalist)
+- [Wrath](innocent/wrath)
+- [Spectre](innocent/spectre)
+- [Sacrifice](innocent/sacrifice)
+- [Spy](innocent/spy)
+- [Medium](innocent/medium)
+- [Pharaoh](innocent/pharaoh)
+- [Seance](innocent/seance)
+- [Undercover Agent](innocent/undercover-agent)
+- [Paranoid](innocent/paranoid)
+
+#### Detective
+
+- [Detective](innocent/detective)
+- [Sheriff](innocent/detective/sheriff)
+- [Sniffer](innocent/detective/sniffer)
+- [Defective](traitor/defective)\*
+
+\* also listed under traitor
+
+### Traitor
 
 - [Traitor](traitor)
 - [Mesmerist](traitor/mesmerist)
@@ -48,7 +91,7 @@ This includes currently disabled ones.
 
 \* also listed under detective
 
-### Neutral:
+### Neutral
 
 - [Serialkiller](serialkiller)
 - [Mimic](mimic)
@@ -60,13 +103,15 @@ This includes currently disabled ones.
 - [Mute](mute)
 - [Jackal](disabled/jackal)
 - [Necromancer](necromancer)
+- [Doppelganger](doppelganger)
+- [Mimic](mimic)
 
-### Jester:
+### Jester
 
 - [Jester](jester)
 - [Swapper](jester/swapper)
 
-## Role Distribution:
+## Role Distribution
 
 The numbers in brackets mean that there is a chance that instead of the regular count the one in the bracket is used.
 
