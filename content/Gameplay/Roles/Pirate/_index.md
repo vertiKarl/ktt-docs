@@ -28,4 +28,4 @@ weight: 3
   - Pirates do not have their own team and only serve their master.
   - When the master dies, the Contract is dropped, and whoever picks it up becomes the Pirates' new boss.
 
-<small>Source: [Steam Workshop - Pirate Role](https://steamcommunity.com/sh
+<small>Source: [Steam Workshop - Pirate Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1737101500)</small>

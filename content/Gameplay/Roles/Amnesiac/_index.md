@@ -6,7 +6,7 @@ weight: 3
 ---
 
 - **Team:** None (Changes to another team)
-- **Goal:** Eliminate everyone (by assuming another role).
+- **Goal:** Assume another role
 - **Chance:** ?% per round
 - **Minimum Players:** ?
 - **Characteristics:**

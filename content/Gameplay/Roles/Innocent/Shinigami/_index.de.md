@@ -8,7 +8,7 @@ prev: gameplay/Roles/Innocent
 - **Ziel**: Eliminate all non-innocents
 - **Chance**: 50% pro Runde
 - **Minimum Anzahl der Spieler**: 6
-- **Besonderheiten**:
+- **Merkmale**:
   - Ein zuvor Innocent Spieler hat die Chance als Shinigami wiederbelebt zu werden
   - Er ist an einen Timer gebunden, da er dauerhaft Schaden bekommt
   - Er darf nicht reden
