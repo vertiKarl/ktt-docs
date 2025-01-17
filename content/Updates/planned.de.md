@@ -9,22 +9,12 @@ sidebar:
 
 (höchste)
 
-- Prop spawn mit Magnetostick ausstellen
-- Combat Role deaktivieren (fixed in new collection)
 - Discord Muter, fix Shinigami unmute
 - potenzieller fix für m9k waffen:
   https://steamcommunity.com/workshop/filedetails/?id=2744140633
   https://steamcommunity.com/sharedfiles/filedetails/?id=2744491947
   oder alternativ anderes Weapon pack:
   https://steamcommunity.com/sharedfiles/filedetails/?id=2887471071&searchtext=TTT2
-- entfernen von copyrighted songs der dance gun
-- Deutsche Versionen von den Seiten der einzelnen Rollen erstellen (In Ordnerstruktur):  
-  Traitor  
-  |- Ambusher  
-  |---|- Ambusher.md  
-  |---|- Ambusher.de.md
-- Massen Umbenennung von Rollen Markdown Dateien in Großschreibung (einheitlich):
-  mesmerist.md => Mesmerist.md
 
 ### Priorität 1
 

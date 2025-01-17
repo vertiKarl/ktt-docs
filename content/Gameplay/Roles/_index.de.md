@@ -6,6 +6,50 @@ sidebar:
   open: true
 ---
 
+## Aktive Rollen
+
+### Team Innocent
+
+- [Innocent](innocent)
+- [Shinigami](innocent/shinigami)
+- [Survivalist](innocent/survivalist)
+- [Wrath](innocent/wrath)
+- [Spectre](innocent/spectre)
+- [Sacrifice](innocent/sacrifice)
+
+#### Detective
+
+- [Detective](innocent/detective)
+- [Sheriff](innocent/detective/sheriff)
+- [Sniffer](innocent/detective/sniffer)
+- [Defective](traitor/defective)\*
+
+\* auch unter Traitor gelistet
+
+### Team Traitor
+
+- [Traitor](traitor)
+- [Mesmerist](traitor/mesmerist)
+- [Defective](traitor/defective)\*
+- [Ambusher](traitor/ambusher)
+
+\* auch unter Detective gelistet
+
+### Neutral
+
+#### Killer Rollen
+
+- [Doppelganger](doppelganger)
+- [Serialkiller](serialkiller)
+
+#### Fun Rollen
+
+- [Swapper](jester/swapper)
+- [Pirate](pirate)
+- [Kobold Hoarder](kobold%20holder)
+- [Amnesiac](amnesiac)
+- [Unknown](unknown)
+
 ## Liste von allen Rollen.
 
 Diese beinhaltet auch deaktivierte.

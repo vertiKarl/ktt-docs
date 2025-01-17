@@ -6,7 +6,7 @@ sidebar:
   open: true
 ---
 
-## Active roles.
+## Active roles
 
 ### Team Innocent
 
@@ -48,6 +48,7 @@ sidebar:
 - [Pirate](pirate)
 - [Kobold Hoarder](kobold%20holder)
 - [Amnesiac](amnesiac)
+- [Unknown](unknown)
 
 ## List of all roles
 
@@ -119,9 +120,9 @@ The numbers in brackets mean that there is a chance that instead of the regular 
 | --------------------- | ------------ | ------------ | ------------- | ----------- |
 | 3 Players             | 1            | 2            |               |             |
 | 4 Players             | 1            | 3            |               |             |
-| 5 Players             | 2            | 3 (2)        |               | (1)         |
-| 6 Players             | 2            | 3 (2)        | 1             | (1)         |
+| 5 Players             | 1            | 3            |               | 1           |
+| 6 Players             | 2            | 2            | 1             | 1           |
 | 7 Players             | 2            | 3            | 1             | 1           |
-| 8 Players             | 2            | 4 (3)        | 1             | 1 (2)       |
+| 8 Players             | 2            | 4            | 1             | 1           |
 | 9 Players             | 3            | 4            | 1             | 2           |
 | 10 Players            | 3            | 5            | 1             | 2           |
