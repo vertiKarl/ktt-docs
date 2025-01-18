@@ -58,7 +58,7 @@ To open the console you need to bind it to a key via the settings.
 ### Subscribe to the workshop collection
 
 Make sure to subscribe not only to the main collection but also all collections linked in it:\
-https://steamcommunity.com/sharedfiles/filedetails/?id=3404557636
+https://steamcommunity.com/sharedfiles/filedetails/?id=3381437762
 
 ### Check the password
 

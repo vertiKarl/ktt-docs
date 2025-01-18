@@ -57,7 +57,7 @@ _Um die Konsole zu öffnen muss man eine Taste dafür in den Einstellungen beleg
 ### Die Workshop Kollektion abonnieren
 
 Stelle sicher, dass du nicht nur die Hauptkollektion sondern auch alle verlinkten Kollektionen abonniert hast:\
-https://steamcommunity.com/sharedfiles/filedetails/?id=3404557636
+https://steamcommunity.com/sharedfiles/filedetails/?id=3381437762
 
 ### Überprüfe das Passwort
 
