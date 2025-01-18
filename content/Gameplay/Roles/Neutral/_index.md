@@ -2,8 +2,6 @@
 title: Neutral
 type: docs
 prev: gameplay/Roles
-sidebar:
-  open: true
 weight: 3
 ---
 
