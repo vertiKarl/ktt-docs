@@ -39,16 +39,16 @@ sidebar:
 
 #### Killer Rollen
 
-- [Doppelganger](doppelganger)
-- [Serialkiller](serialkiller)
+- [Doppelganger](neutral/doppelganger)
+- [Serialkiller](neutral/serialkiller)
 
 #### Fun Rollen
 
-- [Swapper](jester/swapper)
-- [Pirate](pirate)
-- [Kobold Hoarder](kobold%20holder)
-- [Amnesiac](amnesiac)
-- [Unknown](unknown)
+- [Swapper](neutral/swapper)
+- [Pirate](neutral/pirate)
+- [Kobold Hoarder](neutral/kobold-hoarder)
+- [Amnesiac](neutral/amnesiac)
+- [Unknown](neutral/unknown)
 
 ## Liste von allen Rollen.
 
@@ -59,14 +59,14 @@ Diese beinhaltet auch deaktivierte.
 - [Innocent](innocent)
 - [Survivalist](innocent/survivalist)
 - [Shinigami](innocent/shinigami)
-- [Spy](innocent/spy)
-- [Medium](innocent/medium)
-- [Pharaoh](innocent/pharaoh)
+- [Spy](disabled/innocent/spy)
+- [Medium](disabled/innocent/medium)
+- [Pharaoh](disabled/innocent/pharaoh)
 - [Wrath](innocent/wrath)
 - [Spectre](innocent/spectre)
-- [Seance](innocent/seance)
-- [Undercover Agent](innocent/undercover-agent)
-- [Paranoid](innocent/paranoid)
+- [Seance](disabled/innocent/seance)
+- [Undercover Agent](disabled/innocent/undercover-agent)
+- [Paranoid](disabled/innocent/paranoid)
 - [Sacrifice](innocent/sacrifice)
 
 #### Detective:
@@ -82,33 +82,33 @@ Diese beinhaltet auch deaktivierte.
 
 - [Traitor](traitor)
 - [Mesmerist](traitor/mesmerist)
-- [Shanker](traitor/shanker)
+- [Shanker](disabled/traitor/shanker)
 - [Ambusher](traitor/ambusher)
-- [Arsonist](traitor/arsonist)
-- [Brainwasher](traitor/brainwasher)
-- [Fuse](traitor/fuse)
-- [Gambler](traitor/gambler)
+- [Arsonist](disabled/traitor/arsonist)
+- [Brainwasher](disabled/traitor/brainwasher)
+- [Fuse](disabled/traitor/fuse)
+- [Gambler](disabled/traitor/gambler)
 - [Defective](traitor/defective)\*
 
 \* auch unter Detective gelistet
 
 ### Neutral:
 
-- [Serialkiller](serialkiller)
-- [Mimic](mimic)
-- [Amnesiac](amnesiac)
-- [Pirate](pirate)
-- [Unknown](unknown)
-- [Alien](alien)
-- [Kobold Hoarder](kobold%20holder)
-- [Mute](mute)
-- [Jackal](disabled/jackal)
-- [Necromancer](necromancer)
+- [Serialkiller](neutral/serialkiller)
+- [Mimic](disabled/neutral/mimic)
+- [Amnesiac](neutral/amnesiac)
+- [Pirate](neutral/pirate)
+- [Unknown](neutral/unknown)
+- [Alien](disabled/neutral/alien)
+- [Kobold Hoarder](neutral/kobold-hoarder)
+- [Mute](disabled/neutral/mute)
+- [Jackal](disabled/neutral/jackal)
+- [Necromancer](disabled/neutral/necromancer)
 
 ### Jester:
 
-- [Jester](jester)
-- [Swapper](jester/swapper)
+- [Jester](disabled/neutral/jester)
+- [Swapper](neutral/swapper)
 
 ## Rollen verteilung:
 
@@ -116,11 +116,11 @@ Die Nummer in den Klammern zeigt, dass es eine Chance gibt das statt der normale
 
 | **Anzahl Spieler** | **Traitor** | **Innocent** | **Detectives** | **Neutrals** |
 | ------------------ | ----------- | ------------ | -------------- | ------------ |
-| 3 Players          | 1           | 2            |                |              |
-| 4 Players          | 1           | 3            |                |              |
-| 5 Players          | 2           | 3 (2)        |                | (1)          |
-| 6 Players          | 2           | 3 (2)        | 1              | (1)          |
-| 7 Players          | 2           | 3            | 1              | 1            |
-| 8 Players          | 2           | 4 (3)        | 1              | 1 (2)        |
-| 9 Players          | 3           | 4            | 1              | 2            |
-| 10 Players         | 3           | 5            | 1              | 2            |
+| 3 Spieler          | 1           | 2            |                |              |
+| 4 Spieler          | 1           | 3            |                |              |
+| 5 Spieler          | 1           | 3            |                | 1            |
+| 6 Spieler          | 2           | 2            | 1              | 1            |
+| 7 Spieler          | 2           | 3            | 1              | 1            |
+| 8 Spieler          | 2           | 4            | 1              | 1            |
+| 9 Spieler          | 3           | 4            | 1              | 2            |
+| 10 Spieler         | 3           | 5            | 1              | 2            |

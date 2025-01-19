@@ -39,16 +39,16 @@ sidebar:
 
 #### Killer Roles
 
-- [Doppelganger](doppelganger)
-- [Serialkiller](serialkiller)
+- [Doppelganger](neutral/doppelganger)
+- [Serialkiller](neutral/serialkiller)
 
 #### Just fun
 
-- [Swapper](jester/swapper)
-- [Pirate](pirate)
-- [Kobold Hoarder](kobold%20holder)
-- [Amnesiac](amnesiac)
-- [Unknown](unknown)
+- [Swapper](neutral/swapper)
+- [Pirate](neutral/pirate)
+- [Kobold Hoarder](neutral/kobold-hoarder)
+- [Amnesiac](neutral/amnesiac)
+- [Unknown](neutral/unknown)
 
 ## List of all roles
 
@@ -62,12 +62,12 @@ This includes currently disabled ones.
 - [Wrath](innocent/wrath)
 - [Spectre](innocent/spectre)
 - [Sacrifice](innocent/sacrifice)
-- [Spy](innocent/spy)
-- [Medium](innocent/medium)
-- [Pharaoh](innocent/pharaoh)
-- [Seance](innocent/seance)
-- [Undercover Agent](innocent/undercover-agent)
-- [Paranoid](innocent/paranoid)
+- [Spy](disabled/innocent/spy)
+- [Medium](disabled/innocent/medium)
+- [Pharaoh](disabled/innocent/pharaoh)
+- [Seance](disabled/innocent/seance)
+- [Undercover Agent](disabled/innocent/undercover-agent)
+- [Paranoid](disabled/innocent/paranoid)
 
 #### Detective
 
@@ -82,35 +82,35 @@ This includes currently disabled ones.
 
 - [Traitor](traitor)
 - [Mesmerist](traitor/mesmerist)
-- [Shanker](traitor/shanker)
+- [Shanker](disabled/traitor/shanker)
 - [Ambusher](traitor/ambusher)
-- [Arsonist](traitor/arsonist)
-- [Brainwasher](traitor/brainwasher)
-- [Fuse](traitor/fuse)
-- [Gambler](traitor/gambler)
+- [Arsonist](disabled/traitor/arsonist)
+- [Brainwasher](disabled/traitor/brainwasher)
+- [Fuse](disabled/traitor/fuse)
+- [Gambler](disabled/traitor/gambler)
 - [Defective](traitor/defective)\*
 
 \* also listed under detective
 
 ### Neutral
 
-- [Serialkiller](serialkiller)
-- [Mimic](mimic)
-- [Amnesiac](amnesiac)
-- [Pirate](pirate)
-- [Unknown](unknown)
-- [Alien](alien)
-- [Kobold Hoarder](kobold%20holder)
-- [Mute](mute)
-- [Jackal](disabled/jackal)
-- [Necromancer](necromancer)
-- [Doppelganger](doppelganger)
-- [Mimic](mimic)
+- [Serialkiller](neutral/serialkiller)
+- [Mimic](disabled/neutral/mimic)
+- [Amnesiac](neutral/amnesiac)
+- [Pirate](neutral/pirate)
+- [Unknown](neutral/unknown)
+- [Alien](disabled/neutral/alien)
+- [Kobold Hoarder](disabled/neutral/kobold-hoarder)
+- [Mute](disabled/neutral/mute)
+- [Jackal](disabled/neutral/jackal)
+- [Necromancer](disabled/neutral/necromancer)
+- [Doppelganger](disabled/neutral/doppelganger)
+- [Mimic](disabled/neutral/mimic)
 
 ### Jester
 
-- [Jester](jester)
-- [Swapper](jester/swapper)
+- [Jester](disabled/neutral/jester)
+- [Swapper](disabled/neutral/swapper)
 
 ## Role Distribution
 

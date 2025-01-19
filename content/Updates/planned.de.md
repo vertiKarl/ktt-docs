@@ -15,6 +15,7 @@ sidebar:
   https://steamcommunity.com/sharedfiles/filedetails/?id=2744491947
   oder alternativ anderes Weapon pack:
   https://steamcommunity.com/sharedfiles/filedetails/?id=2887471071&searchtext=TTT2
+- Ammobox spawn auf Alps
 
 ### Priorität 1
 
