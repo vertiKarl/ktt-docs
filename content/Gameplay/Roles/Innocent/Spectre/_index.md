@@ -6,8 +6,7 @@ prev: gameplay/Roles/Innocent
 
 - **Team:** Innocent
 - **Goal:** Eliminate all non-innocents.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 5
 - **Characteristics:**
   - When killed, the Spectre haunts their killer.
   - The haunt is visible as smoke around the attacker.

@@ -7,8 +7,7 @@ weight: 3
 
 - **Team:** Jester
 - **Goal:** Get killed by someone and swap identities with them.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 8
 - **Characteristics:**
   - The **Swapper** is a **Jester** role that cannot deal damage. They appear as a Jester to Traitors, which is a strategic advantage when manipulating others.
   - Their goal is to be killed by another player, triggering an identity swap. Upon death, they will swap roles and weapons with the player that kills them.
