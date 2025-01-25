@@ -9,7 +9,7 @@ weight: 3
 - **Ziel:** Alle eliminieren.
 - **Mindestspieler:** 7
 - **Merkmale:**
-  - Spielt in seinen eigenen Team, kann jedoch keine neuen Teammitglieder rekrutieren.
+  - Spielt in seinem eigenen Team, kann jedoch keine neuen Teammitglieder rekrutieren.
   - Startet mit einem Tracker-Item, das es ihnen ermöglicht, die Aktionen aller Spieler durch Wände zu sehen.
   - Verfügt über einen eigenen Shop, hat jedoch nur ein Kredit, um Gegenstände zu kaufen; Kills bringen ihm keine Credits.
   - Kann Credits von toten Körpern stehlen.

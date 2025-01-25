@@ -6,7 +6,7 @@ weight: 3
 ---
 
 - **Team:** Kobold Hoarder
-- **Ziel:** Sammle Waffen, um deinen Waffenlager zu füllen und gewinne. Wenn du getötet wirst oder es versäumst, den Waffenlager bis zum Ende zu füllen, verlierst du.
+- **Ziel:** Sammle Waffen, um dein Waffenlager zu füllen und gewinne. Wenn du getötet wirst oder es versäumst, das Waffenlager bis zum Ende zu füllen, verlierst du.
 - **Mindestspieler:** 6
 - **Merkmale:**
   - Der Kobold Hoarder wird zu Beginn der Runde angekündigt.

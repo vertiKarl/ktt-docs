@@ -14,7 +14,7 @@ weight: 3
   - Der Pirate Captain beginnt mit einem "Contract"-Gegenstand, der einen Spieler an sich bindet wenn er geworfen und aufgenommen wird.
   - Der Captain kämpft nicht direkt für ein Team, bis der Vertrag geworfen und aufgenommen wurde.
   - Sobald ein Spieler den Vertrag aufnimmt, dienen der Captain und alle Piraten diesem Spieler als ihrem Meister.
-  - Wenn der Captain stirbt wird ein neuer aus den Piraten ausgewählt, die Piraten sind dann aber nicht mehr an diesen Captain gebunden.
+  - Wenn der Captain stirbt wird ein neuer aus den Piraten ausgewählt, die Piraten sind dann an diesen Captain gebunden.
 
 ### Pirate
 
