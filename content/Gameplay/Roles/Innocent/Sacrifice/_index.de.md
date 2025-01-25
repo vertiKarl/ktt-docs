@@ -8,7 +8,7 @@ prev: gameplay/Roles/Innocent
 - **Ziel:** Alle Nicht-Innocents eliminieren.
 - **Mindestspieler:** 6
 - **Merkmale:**
-  - Ausgestattet mit einem Defibrillator, der einen toten Spieler wiederbeleben kann, jedoch kostet es ihm das Leben.
+  - Ausgestattet mit einem Defibrillator, der einen toten Spieler wiederbeleben kann, jedoch kostet es ihn das Leben.
   - Sollte strategisch eingesetzt werden, um wichtige Spieler wie einen toten Detective oder einen Unschuldigen mit wertvollen Informationen wiederzubeleben.
   - Der Defibrillator verschwindet, wenn das Sacrifice stirbt.
 
