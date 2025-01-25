@@ -7,8 +7,7 @@ weight: 3
 
 - **Team:** Kobold Hoarder
 - **Goal:** Collect guns to fill their hoard and win. If killed or failing to fill the hoard by the end, they lose.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 6
 - **Characteristics:**
   - The Kobold Hoarder is announced at the start of the round.
   - They are faster and shorter than other players but cannot deal damage.

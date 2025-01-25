@@ -6,10 +6,9 @@ prev: gameplay/Roles/Innocent
 
 - **Team:** Innocent
 - **Ziel:** Alle Nicht-Innocents eliminieren.
-- **Chance:** ?% pro Runde
-- **Mindestspieler:** ?
+- **Mindestspieler:** 5
 - **Merkmale:**
-  - Wenn getötet, verfolgt der Spectre seinen Mörder.
+  - Wenn er ermordet wird, verfolgt der Spectre seinen Mörder.
   - Die Verfolgung ist als Rauch um den Angreifer sichtbar.
   - Wenn der Angreifer während der Verfolgung getötet wird, wird der Spectre wiederbelebt.
 

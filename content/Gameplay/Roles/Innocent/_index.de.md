@@ -5,4 +5,8 @@ prev: gameplay/roles
 weight: 1
 ---
 
-**Team**: Innocent
+- **Team**: Innocent
+- **Ziel:** Überleben
+- **Mindestspieler:** 1
+- **Merkmale:**
+  - Hat keinen Shop und keine speziellen Items

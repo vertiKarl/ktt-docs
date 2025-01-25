@@ -7,8 +7,7 @@ weight: 3
 
 - **Team:** Unknown (Own team)
 - **Goal:** Get killed and join your killer's team.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 5
 - **Characteristics:**
   - The Unknown plays in their own team and loses if they survive until the end of the round.
   - If the Unknown is killed by another player, they respawn as that player's role and help them win.

@@ -7,8 +7,7 @@ weight: 3
 
 - **Team:** Neutral
 - **Goal:** Eliminate everyone.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 7
 - **Characteristics:**
   - Plays in their own team, but cannot recruit new team members.
   - Starts with a tracker item, allowing them to see the actions of every player through walls.

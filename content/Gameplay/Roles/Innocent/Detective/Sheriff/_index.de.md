@@ -6,8 +6,7 @@ prev: gameplay/Roles/Innocent/Detective
 
 - **Team:** Innocent
 - **Ziel:** Alle Nicht-Innocents eliminieren.
-- **Chance:** ?% pro Runde
-- **Mindestspieler:** ?
+- **Mindestspieler:** 7
 - **Merkmale:**
   - Wie ein normaler Detective, für andere Spieler sichtbar, hat einen Shop und kämpft für das Innocent-Team.
   - Ausgestattet mit einer Deputy Deagle, um einen anderen Spieler zu konvertieren, der dem Innocent-Team beitritt.

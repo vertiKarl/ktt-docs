@@ -7,12 +7,11 @@ weight: 3
 
 - **Team:** Neutral
 - **Ziel:** Alle eliminieren.
-- **Chance:** ?% pro Runde
-- **Mindestspieler:** ?
+- **Mindestspieler:** 7
 - **Merkmale:**
-  - Spielt in ihrem eigenen Team, kann jedoch keine neuen Teammitglieder rekrutieren.
+  - Spielt in seinem eigenen Team, kann jedoch keine neuen Teammitglieder rekrutieren.
   - Startet mit einem Tracker-Item, das es ihnen ermöglicht, die Aktionen aller Spieler durch Wände zu sehen.
-  - Verfügt über einen eigenen Shop, hat jedoch nur ein Kredit, um Gegenstände zu kaufen; keine weiteren Credits werden durch das Töten von Spielern vergeben.
+  - Verfügt über einen eigenen Shop, hat jedoch nur ein Kredit, um Gegenstände zu kaufen; Kills bringen ihm keine Credits.
   - Kann Credits von toten Körpern stehlen.
   - Ausgestattet mit einem einzigartigen Messer.
 

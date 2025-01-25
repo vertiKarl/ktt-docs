@@ -6,7 +6,6 @@ prev: gameplay/Roles/Traitor
 
 - **Team**: Traitor
 - **Goal**: Wins with traitors
-- **Chance**: 60% per round
 - **Minimum amount of players**: 6
 - **Characteristics**:
   - Has a Shop that can be opened by pressing ‘C’. You start with 0 credits.

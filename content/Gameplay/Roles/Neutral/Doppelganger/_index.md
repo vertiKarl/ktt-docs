@@ -7,8 +7,7 @@ weight: 3
 
 - **Team:** Neutral
 - **Goal:** Eliminate everyone.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 8
 - **Characteristics:**
   - Can steal the role of another player by using the Interact key ("E" by default) after a short delay.
   - Remains on their own team (Neutral Killer) regardless of the stolen role's team.

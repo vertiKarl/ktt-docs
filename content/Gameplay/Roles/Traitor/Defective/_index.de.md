@@ -6,8 +6,7 @@ prev: gameplay/Roles/Traitor
 
 - **Team:** Traitor
 - **Ziel:** Alle Nicht-Traitors eliminieren.
-- **Chance:** ?% pro Runde
-- **Mindestspieler:** ?
+- **Mindestspieler:** 7
 - **Merkmale:**
   - Arbeitet ähnlich wie ein normaler Detective, verwendet den Shop des Detectives und einen DNA-Scanner.
   - Erscheint für diejenigen, die nicht zu ihrem Team gehören, als Detective.

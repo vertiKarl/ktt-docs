@@ -6,8 +6,7 @@ prev: gameplay/Roles/Traitor
 
 - **Team:** Traitor
 - **Goal:** Eliminate all non-traitors.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 6
 - **Characteristics:**
   - Projects an aura when standing still.
   - Anyone within or who walks into the aura will be revealed through walls via Marker Vision.

@@ -9,8 +9,7 @@ weight: 3
 
 - **Team:** None (Changes based on the player they are bound to)
 - **Goal:** Serve the master (the player who holds the Contract).
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 7
 - **Characteristics:**
   - The Pirate Captain starts with a "Contract" item, which binds them to a player when thrown and picked up.
   - The Captain does not directly fight for any team until the Contract is thrown and picked up.
@@ -21,8 +20,7 @@ weight: 3
 
 - **Team:** None (Changes based on the player they are bound to)
 - **Goal:** Serve the master (the player who holds the Contract).
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 7
 - **Characteristics:**
   - Pirates fight for the player who holds the Contract, but do not gain any abilities from them.
   - Pirates do not have their own team and only serve their master.

@@ -6,8 +6,7 @@ prev: gameplay/Roles/Innocent/Detective
 
 - **Team:** Innocent
 - **Goal:** Eliminate all non-innocents.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 7
 - **Characteristics:**
   - Same as a normal detective, visible to other players, has a shop, and fights for the Innocent team.
   - Equipped with a Deputy Deagle to convert another player to join the Innocent team.

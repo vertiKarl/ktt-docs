@@ -6,8 +6,7 @@ prev: gameplay/Roles/Innocent
 
 - **Team:** Innocent
 - **Goal:** Eliminate all non-innocents.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 6
 - **Characteristics:**
   - Equipped with a defib that can revive a dead player, but at the cost of the Sacrifice’s life.
   - Should be used strategically to revive key players, such as a dead detective or an innocent with valuable information.

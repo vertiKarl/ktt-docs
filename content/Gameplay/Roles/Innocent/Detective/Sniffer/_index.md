@@ -6,8 +6,7 @@ prev: gameplay/Roles/Innocent/Detective
 
 - **Team:** Innocent
 - **Goal:** Eliminate all non-innocents.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
+- **Minimum Players:** 7
 - **Characteristics:**
   - Plays as a normal detective with a role visible to everyone.
   - Uses a magnifying glass to see the footsteps of every player.

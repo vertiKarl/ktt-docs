@@ -7,11 +7,10 @@ weight: 3
 
 - **Team:** Unknown (Eigenes Team)
 - **Ziel:** Getötet werden und dem Team des Mörders beitreten.
-- **Chance:** ?% pro Runde
-- **Mindestspieler:** ?
+- **Mindestspieler:** 5
 - **Merkmale:**
   - Der Unknown spielt in seinem eigenen Team und verliert, wenn er bis zum Ende der Runde überlebt.
-  - Wenn der Unknown von einem anderen Spieler getötet wird, wird er als die Rolle dieses Spielers wiederbelebt und hilft ihm, zu gewinnen.
+  - Wenn der Unknown von einem anderen Spieler getötet wird, wird er mit der gleichen Rolle dieses Spielers wiederbelebt um ihn zu unterstützen.
   - Dies schafft ein Vertrauensverhältnis zwischen dem Unknown und dem Mörder, da sie die Identität des jeweils anderen bestätigen.
   - Der Unknown und der Mörder sind nach der Wiederbelebung nun auf derselben Seite.
 
