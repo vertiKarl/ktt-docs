@@ -1,11 +1,11 @@
 ---
 title: Doppelganger
 type: docs
-prev: gameplay/Roles
+prev: gameplay/Roles/Neutral
 weight: 3
 ---
 
-- **Team:** Neutral
+- **Team:** Doppelganger
 - **Ziel:** Alle eliminieren.
 - **Mindestspieler:** 8
 - **Merkmale:**

@@ -5,7 +5,7 @@ prev: gameplay/Roles/Innocent/Detective
 ---
 
 - **Team:** Innocent
-- **Ziel:** Alle Nicht-Innocents eliminieren.
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
 - **Mindestspieler:** 7
 - **Merkmale:**
   - Wie ein normaler Detective, für andere Spieler sichtbar, hat einen Shop und kämpft für das Innocent-Team.
@@ -16,7 +16,7 @@ prev: gameplay/Roles/Innocent/Detective
 ### Deputy
 
 - **Team:** Innocent
-- **Ziel:** Alle Nicht-Innocents eliminieren.
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
 - **Merkmale:**
   - Vom Sheriff durch einen Deputy Deagle-Schuss konvertiert.
   - Stirbt automatisch, wenn der Sheriff stirbt.

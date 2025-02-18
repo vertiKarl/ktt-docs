@@ -1,13 +1,13 @@
 ---
 title: Pirate
 type: docs
-prev: gameplay/Roles
+prev: gameplay/Roles/Neutral
 weight: 3
 ---
 
 ### Pirate Captain
 
-- **Team:** None (Changes based on the player they are bound to)
+- **Team:** Piraten
 - **Ziel:** Dem Meister dienen (dem Spieler, der den Vertrag hält).
 - **Mindestspieler:** 7
 - **Merkmale:**
@@ -18,8 +18,8 @@ weight: 3
 
 ### Pirate
 
-- **Team:** None (Changes based on the player they are bound to)
-- **Ziel:** Dem Meister dienen (dem Spieler, der den Vertrag hält).
+- **Team:** Piraten
+- **Ziel:** Mit dem Pirate Captain zusammen gewinnen.
 - **Mindestspieler:** 7
 - **Merkmale:**
   - Piraten kämpfen für den Spieler, der den Vertrag hält, erhalten jedoch keine Fähigkeiten von ihm.

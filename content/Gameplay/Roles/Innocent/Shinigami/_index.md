@@ -4,10 +4,10 @@ type: docs
 prev: gameplay/Roles/Innocent
 ---
 
-- **Team**: Innocent
-- **Ziel**: Eliminate all non-innocents
-- **Minimum Anzahl der Spieler**: 7
-- **Merkmale**:
+- **Team:** Innocent
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
+- **Mindestspieler:** 7
+- **Merkmale:**
   - Ein zuvor Innocent Spieler hat die Chance als Shinigami wiederbelebt zu werden
   - Er ist an einen Timer gebunden, da er dauerhaft Schaden bekommt
   - Er darf nicht reden

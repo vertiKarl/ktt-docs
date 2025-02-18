@@ -1,10 +1,8 @@
 ---
-title: Disabled
+title: Deaktiviert
 type: docs
 prev: gameplay/Roles
 weight: 100
+sidebar:
+  exclude: true
 ---
-
-## Liste aller Rollen die aktuell deaktiviert sind
-
-- [Jackal](jackal)

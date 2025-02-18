@@ -6,10 +6,10 @@ toc: false
 ## Übersicht
 
 {{< cards >}}
-{{< card link="socials" title="Soziale Medien" icon="youtube" >}}
-{{< card link="updates" title="Updates" icon="status-online" >}}
-{{< card link="gameplay" title="Spielablauf" icon="template" >}}
 {{< card link="joining" title="Beitreten" icon="arrow-circle-right" >}}
+{{< card link="gameplay" title="Spielablauf" icon="template" >}}
+{{< card link="gameplay/tips" title="Tipps" icon="question-mark-circle" >}}
+{{< card link="updates" title="Updates" icon="status-online" >}}
 {{< card link="about" title="Über uns" icon="user" >}}
 {{< /cards >}}
 

@@ -5,7 +5,7 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team:** Innocent
-- **Ziel:** Alle Nicht-Innocents eliminieren.
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
 - **Mindestspieler:** 5
 - **Merkmale:**
   - Wenn er ermordet wird, verfolgt der Spectre seinen Mörder.

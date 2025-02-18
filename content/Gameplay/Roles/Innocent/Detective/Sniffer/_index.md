@@ -5,7 +5,7 @@ prev: gameplay/Roles/Innocent/Detective
 ---
 
 - **Team:** Innocent
-- **Ziel:** Alle Nicht-Innocents eliminieren.
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
 - **Mindestspieler:** 7
 - **Merkmale:**
   - Spielt wie ein normaler Detective, dessen Rolle für alle sichtbar ist.

@@ -1,11 +1,11 @@
 ---
 title: Serialkiller
 type: docs
-prev: gameplay/Roles
+prev: gameplay/Roles/Neutral
 weight: 3
 ---
 
-- **Team:** Neutral
+- **Team:** Serialkiller
 - **Ziel:** Alle eliminieren.
 - **Mindestspieler:** 7
 - **Merkmale:**

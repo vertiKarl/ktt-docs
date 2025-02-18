@@ -1,11 +1,11 @@
 ---
 title: Unknown
 type: docs
-prev: gameplay/Roles
+prev: gameplay/Roles/Neutral
 weight: 3
 ---
 
-- **Team:** Unknown (Eigenes Team)
+- **Team:** Kein Team
 - **Ziel:** Getötet werden und dem Team des Mörders beitreten.
 - **Mindestspieler:** 5
 - **Merkmale:**

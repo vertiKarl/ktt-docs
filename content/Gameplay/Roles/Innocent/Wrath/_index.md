@@ -5,7 +5,7 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team:** Innocent
-- **Ziel:** Alle Nicht-Innocents eliminieren.
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
 - **Mindestspieler:** 5
 - **Merkmale:**
   - Wenn er von einem Innocent getötet, wird er nach einer festgelegten Zeit (standardmäßig 15 Sekunden) als Traitor wiederbelebt.

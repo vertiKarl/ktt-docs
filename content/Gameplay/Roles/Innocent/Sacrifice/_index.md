@@ -5,7 +5,7 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team:** Innocent
-- **Ziel:** Alle Nicht-Innocents eliminieren.
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
 - **Mindestspieler:** 6
 - **Merkmale:**
   - Ausgestattet mit einem Defibrillator, der einen toten Spieler wiederbeleben kann, jedoch kostet es ihn das Leben.

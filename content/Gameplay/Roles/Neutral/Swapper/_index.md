@@ -1,7 +1,7 @@
 ---
 title: Swapper
 type: docs
-prev: gameplay/Roles/Jester
+prev: gameplay/Roles/Neutral
 weight: 3
 ---
 
