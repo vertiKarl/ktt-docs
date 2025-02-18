@@ -6,7 +6,7 @@ sidebar:
   hide: true
 ---
 
-Falls du mit unserer Gruppe noch gar nichts zu tun hattest, bitte ich dich [mir]({{<ref "vertikarl">}}) eine ganz unverbindliche Direktnachricht zu schreiben, dass du mitspielen möchtest und unserem [Discord Server](https://discord.gg/QA8TaCjCwg) bei zu treten.
+Falls du mit unserer Gruppe noch gar nichts zu tun hattest, bitte ich dich [mir]({{<ref "vertikarl">}}) eine Direktnachricht zu schreiben, dass du mitspielen möchtest und unserem [Discord Server](https://discord.gg/QA8TaCjCwg) beizutreten.
 
 ## Anleitung zum Beitreten
 
