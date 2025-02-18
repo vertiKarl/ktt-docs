@@ -4,8 +4,8 @@ title: Minigames
 
 ## Bedingungen
 
-- Es gibt jede Runde eine Chance von X%, dass ein Minigame gestartet wird.
-- In diversen Shops (Hauptsächlich (Detective)[<<ref {{detective}}>]>) gibt es den Randomat zu kaufen, dieser kann ein zufälliges Minigame starten
+- Es gibt jede Runde eine Chance von 15%, dass ein Minigame gestartet wird.
+- In diversen Shops (Hauptsächlich [Detective]({{<ref "detective">}})) gibt es den Randomat zu kaufen, dieser kann ein zufälliges Minigame starten
 
 ## Referenzen
 
