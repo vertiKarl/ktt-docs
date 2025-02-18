@@ -1,17 +1,17 @@
 ---
 title: Swapper
 type: docs
-prev: gameplay/Roles/Jester
+prev: gameplay/Roles/Neutral
 weight: 3
 ---
 
 - **Team:** Jester
-- **Goal:** Get killed by someone and swap identities with them.
-- **Minimum Players:** 8
-- **Characteristics:**
-  - The **Swapper** is a **Jester** role that cannot deal damage. They appear as a Jester to Traitors, which is a strategic advantage when manipulating others.
-  - Their goal is to be killed by another player, triggering an identity swap. Upon death, they will swap roles and weapons with the player that kills them.
-  - By default, the player who kills the Swapper becomes the new Swapper, but with only **1 health**.
-  - The resulting chaos is often unpredictable, as the new Swapper can either use the new role to continue the game or face immediate challenges.
+- **Ziel:** Von jemandem getötet werden und die Identität mit ihm tauschen.
+- **Mindestspieler:** 8
+- **Merkmale:**
+  - Der **Swapper** ist eine **Jester**-Rolle, die keinen Schaden verursachen kann. Er erscheint für die Traitor als Jester, was einen strategischen Vorteil bei der Manipulation anderer verschafft.
+  - Sein Ziel ist es, von einem anderen Spieler getötet zu werden, was einen Identitätswechsel auslöst. Nach dem Tod tauschen sie Rollen und Waffen mit dem Spieler, der sie tötet.
+  - Standardmäßig wird der Spieler, der den Swapper tötet, der neue Swapper, jedoch mit nur **1 Health**.
+  - Das daraus entstehende Chaos ist oft unvorhersehbar, da der neue Swapper entweder die neue Rolle nutzen kann, um das Spiel fortzusetzen, oder ihn sofort vor Herausforderungen stellt.
 
-<small>Source: [Steam Workshop - Swapper Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2605759027)</small>
+<small>Quelle: [Steam Workshop - Swapper Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2605759027)</small>

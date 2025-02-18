@@ -5,10 +5,10 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team:** Innocent
-- **Goal:** Eliminate all non-innocents.
-- **Minimum Players:** 5
-- **Characteristics:**
-  - If killed by a fellow innocent, will revive after a set time (default 15 seconds) as a traitor.
-  - If killed by any non-innocent role, will die permanently.
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
+- **Mindestspieler:** 5
+- **Merkmale:**
+  - Wenn er von einem Innocent getötet, wird er nach einer festgelegten Zeit (standardmäßig 15 Sekunden) als Traitor wiederbelebt.
+  - Wenn er von einer anderen Nicht-Innocent-Rolle getötet wird, stirbt der Spieler dauerhaft.
 
-<small>Source: [Steam Workshop - Wrath](https://steamcommunity.com/sharedfiles/filedetails/?id=2001952383)</small>
+<small>Quelle: [Steam Workshop - Wrath](https://steamcommunity.com/sharedfiles/filedetails/?id=2001952383)</small>

@@ -5,18 +5,18 @@ prev: gameplay/Roles
 ---
 
 - **Team**: Jackal
-- **Goal**: Kill all non-teammates
-- **Chance**: 45% per round
-- **Minimum amount of players**: 5
-- **Characteristics**:
-  - Starts with a Sidekick Deagle with a single bullet, that can be shot at another player to make them become a [Sidekick](#sidekick)
-  - Has a Shop that can be opened by pressing 'C'. You start with 3 credits.
-  - You receive additional credits by killing enemies or looting bodies of players that had credits left.
+- **Ziel**: Alle nicht-teammates töten
+- **Chance**: 45% pro Runde
+- **Minimum Anzahl der Spieler**: 5
+- **Besonderheiten**:
+  - Startet mit einer Sidekick-Deagle mit nur einem Schuss, diese kann er nutzen um einen anderen Spieler zum [Sidekick](#sidekick) zu machen.
+  - Hat einen Shop den er mit 'C' öffnen kann. Er startet mit 3 credits.
+  - Du erhältst zusätzliche credits für das töten von Gegnern oder durch looten von Leichen anderer Spieler welche credits übrig hatten.
 
 ## Sidekick
 
 - **Team**: Jackal
-- **Goal**: Kill all non-teammates
-- **Characteristics**:
-  - Overwrites previous role
-  - Becomes the new Jackal once the previous one dies. (Also receives a sidekick deagle)
+- **Ziel**: Alle nicht-teammates töten
+- **Besonderheiten**:
+  - Überschreibt vorherige Rolle
+  - Wird zum neuen Jackal sobald der alte stirbt. (Bekommt dann auch eine sidekick Deagle)

@@ -5,11 +5,11 @@ prev: gameplay/Roles/Innocent/Detective
 ---
 
 - **Team:** Innocent
-- **Goal:** Eliminate all non-innocents.
-- **Minimum Players:** 7
-- **Characteristics:**
-  - Plays as a normal detective with a role visible to everyone.
-  - Uses a magnifying glass to see the footsteps of every player.
-  - Can also see blood on top of the footsteps of the killer, helping to track them.
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
+- **Mindestspieler:** 7
+- **Merkmale:**
+  - Spielt wie ein normaler Detective, dessen Rolle für alle sichtbar ist.
+  - Kann mit einer Lupe(Magnifying Glass), die Fußspuren von Spielern sehen.
+  - Kann auch Blut auf den Fußspuren des Killers sehen, um ihn zu verfolgen.
 
-<small>Source: [Steam Workshop - Sniffer Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1682738483)</small>
+<small>Quelle: [Steam Workshop - Sniffer Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1682738483)</small>

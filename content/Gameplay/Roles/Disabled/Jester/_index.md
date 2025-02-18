@@ -6,13 +6,13 @@ weight: 3
 ---
 
 - **Team:** Jester
-- **Goal:** Get killed by another player to win the game.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
-- **Characteristics:**
-  - The Jester is a neutral role whose primary goal is to get killed by another player. To accomplish this, they do not deal any damage, making them a non-threat to others.
-  - The Jester must be careful, as shooting at players without dealing damage might reveal their role. This could lead to an early death if others catch on.
-  - If the Jester is killed, the team that kills them wins, so the Jester needs to cleverly manipulate others into killing them, while avoiding being too obvious.
-  - The Jester's ability to confuse and mislead can create unique moments where players must decide whether or not they should take the risk of killing the Jester, as it might be a trap.
+- **Ziel:** Von einem anderen Spieler getötet werden, um das Spiel zu gewinnen.
+- **Chance:** ?% pro Runde
+- **Mindestspieler:** ?
+- **Merkmale:**
+  - Der Jester ist eine neutrale Rolle, deren Hauptziel es ist, von einem anderen Spieler getötet zu werden. Um dies zu erreichen, fügt er keinen Schaden zu und stellt daher keine Bedrohung für andere dar.
+  - Der Jester muss vorsichtig sein, da das Schießen auf Spieler ohne Schaden zu verursachen, seine Rolle enttarnen könnte. Dies könnte zu einem frühen Tod führen, wenn andere es bemerken.
+  - Wenn der Jester getötet wird, gewinnt das Team, das ihn tötet, also muss der Jester geschickt andere dazu bringen, ihn zu töten, ohne zu offensichtlich zu sein.
+  - Die Fähigkeit des Jesters, zu verwirren und in die Irre zu führen, kann einzigartige Momente schaffen, in denen die Spieler entscheiden müssen, ob sie das Risiko eingehen sollen, den Jester zu töten, da es eine Falle sein könnte.
 
-<small>Source: [Steam Workshop - Jester Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1363049665)</small>
+<small>Quelle: [Steam Workshop - Jester Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1363049665)</small>

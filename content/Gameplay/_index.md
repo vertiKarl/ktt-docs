@@ -1,11 +1,13 @@
 ---
-title: Gameplay
+title: Spielablauf
 next: gameplay/Roles
 ---
 
-Everything to know about playing on our TTT Server.
+Alles was du über unseren TTT Server wissen musst.
 
 {{< cards >}}
-{{< card link="rules" title="Rules" icon="book-open" >}}
-{{< card link="roles" title="Roles" icon="user" >}}
+{{< card link="rules" title="Regeln" icon="book-open" >}}
+{{< card link="roles" title="Rollen" icon="user" >}}
+{{< card link="tips" title="Tipps" icon="question-mark-circle" >}}
+{{< card link="minigames" title="Minigames" icon="gift" >}}
 {{< /cards >}}

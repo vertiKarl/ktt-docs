@@ -5,14 +5,14 @@ prev: gameplay/Roles/Traitor
 ---
 
 - **Team:** Traitor
-- **Goal:** Eliminate all non-traitors.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
-- **Characteristics:**
-  - They are able to steal the Ankh from the [Pharaoh](../../innocent/pharaoh).
-  - If the Ankh is in possession of the Graverobber, they get revived instead.
-  - The Ankh heals it's owner if they are close by.
+- **Ziel:** Alle Nicht-Traitors eliminieren.
+- **Chance:** ?% pro Runde
+- **Mindestspieler:** ?
+- **Merkmale:**
+  - Kann das Ankh vom [Pharaoh](../../innocent/pharaoh) stehlen.
+  - Wenn das Ankh im Besitz des Graverobbers ist, wird dieser stattdessen wiederbelebt.
+  - Das Ankh heilt seinen Besitzer, wenn er sich in der Nähe befindet.
 
-Tip: The color of the runes on the Ankh show the team of the current owner!
+Tipp: Die Farbe der Runen auf dem Ankh zeigt das Team des aktuellen Besitzers!
 
-<small>Source: [Steam Workshop - Pharaoh Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2002040119)</small>
+<small>Quelle: [Steam Workshop - Pharaoh Rolle](https://steamcommunity.com/sharedfiles/filedetails/?id=2002040119)</small>

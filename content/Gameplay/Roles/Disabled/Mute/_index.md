@@ -6,13 +6,13 @@ weight: 3
 ---
 
 - **Team:** Innocent
-- **Goal:** Survive and help the Innocent team win by providing information.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
-- **Characteristics:**
-  - The Mute is an Innocent role who cannot use text chat in-game, is muted in Discord and can also not equip any weapons.
-  - The Mute can pick up weapons but cannot equip or use them.
-  - They have a fast-updating radar that provides valuable location information but is not entirely accurate. The radar has a 10-second timer, but the information may be delayed, making it potentially misleading.
-  - Since the Mute cannot deal damage, they need to find ways to communicate the information from their radar to trusted players. They must convince others that their information is trustworthy.
+- **Ziel:** Überleben und dem Innocent-Team zum Sieg verhelfen, indem sie Informationen bereitstellen.
+- **Chance:** ?% pro Runde
+- **Mindestspieler:** ?
+- **Merkmale:**
+  - Der Mute ist eine Innocent-Rolle, die im Spiel keinen Text-Chat nutzen kann, in Discord stummgeschaltet ist und auch keine Waffen ausrüsten kann.
+  - Der Mute kann Waffen aufheben, sie aber nicht ausrüsten oder benutzen.
+  - Sie haben ein Radar, das schnell aktualisiert wird und wertvolle Standortinformationen liefert, jedoch nicht ganz genau ist. Das Radar hat einen Timer von 10 Sekunden, aber die Informationen können verzögert sein, was sie möglicherweise irreführend macht.
+  - Da der Mute keinen Schaden verursachen kann, müssen sie Wege finden, die Informationen von ihrem Radar an vertrauenswürdige Spieler zu kommunizieren. Sie müssen andere davon überzeugen, dass ihre Informationen vertrauenswürdig sind.
 
-<small>Source: [Steam Workshop - Mute Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2809972920)</small>
+<small>Quelle: [Steam Workshop - Mute Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2809972920)</small>

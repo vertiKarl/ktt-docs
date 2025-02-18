@@ -5,11 +5,11 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team:** Innocent
-- **Goal:** Eliminate all non-innocents.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
-- **Characteristics:**
-  - Equipped with the Dead Man's Switch item.
-  - When the Paranoid dies, all players are alerted via a message, and his body location is visible through walls.
+- **Ziel:** Alle Nicht-Innocents eliminieren.
+- **Chance:** ?% pro Runde
+- **Mindestspieler:** ?
+- **Merkmale:**
+  - Ausgestattet mit dem Dead Man's Switch-Item.
+  - Wenn der Paranoid stirbt, werden alle Spieler durch eine Nachricht alarmiert, und seine Körperposition ist durch Wände sichtbar.
 
-<small>Source: [Steam Workshop - Paranoid Role](https://steamcommunity.com/sharedfiles/filedetails/?id=3259392644)</small>
+<small>Quelle: [Steam Workshop - Paranoid Role](https://steamcommunity.com/sharedfiles/filedetails/?id=3259392644)</small>

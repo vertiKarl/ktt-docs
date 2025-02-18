@@ -4,11 +4,10 @@ type: docs
 prev: gameplay/Roles/Innocent
 ---
 
-- **Team**: Innocent
-- **Goal**: Survive or eliminate all non-innocents
-- **Chance**: 60% per round
-- **Minimum amount of players**: 6
-- **Characteristics**:
-  - Has a Shop that can be opened by pressing 'C'. You start with 2 credits.
-  - Is confirmed innocent, as everyone sees them as a detective (though their role can be changed by other means like the [Jackal]({{<ref"jackal">}}))
-  - You receive credits when traitors are killed and confirmed, also when you loot bodies of people that have credits left
+- **Team:** Innocent
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
+- **Mindestspieler:** 6
+- **Merkmale:**
+  - Hat einen Shop den er mit 'C' öffnen kann. Er startet mit 2 credits.
+  - Ist confirmed Innocent, da jeder Spieler ihn als Detective sieht (seine Rolle kann dennoch überschrieben werden, bspw. durch den [Jackal]({{<ref"jackal">}})
+  - Du erhältst zusätzliche credits wenn Traitor sterben und confirmed werden oder durch looten von Leichen anderer Spieler welche credits übrig hatten

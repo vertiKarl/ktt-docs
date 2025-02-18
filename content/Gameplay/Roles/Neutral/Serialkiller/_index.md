@@ -1,18 +1,18 @@
 ---
 title: Serialkiller
 type: docs
-prev: gameplay/Roles
+prev: gameplay/Roles/Neutral
 weight: 3
 ---
 
-- **Team:** Neutral
-- **Goal:** Eliminate everyone.
-- **Minimum Players:** 7
-- **Characteristics:**
-  - Plays in their own team, but cannot recruit new team members.
-  - Starts with a tracker item, allowing them to see the actions of every player through walls.
-  - Has their own shop but only one credit to buy items; no further credits are awarded by killing players.
-  - Can steal credits from dead bodies.
-  - Equipped with a unique knife
+- **Team:** Serialkiller
+- **Ziel:** Alle eliminieren.
+- **Mindestspieler:** 7
+- **Merkmale:**
+  - Spielt in seinem eigenen Team, kann jedoch keine neuen Teammitglieder rekrutieren.
+  - Startet mit einem Tracker-Item, das es ihnen ermöglicht, die Aktionen aller Spieler durch Wände zu sehen.
+  - Verfügt über einen eigenen Shop, hat jedoch nur ein Kredit, um Gegenstände zu kaufen; Kills bringen ihm keine Credits.
+  - Kann Credits von toten Körpern stehlen.
+  - Ausgestattet mit einem einzigartigen Messer.
 
-<small>Source: [Steam Workshop - Serialkiller Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1363905854)</small>
+<small>Quelle: [Steam Workshop - Serialkiller Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1363905854)</small>

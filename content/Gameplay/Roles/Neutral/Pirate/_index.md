@@ -1,29 +1,29 @@
 ---
 title: Pirate
 type: docs
-prev: gameplay/Roles
+prev: gameplay/Roles/Neutral
 weight: 3
 ---
 
 ### Pirate Captain
 
-- **Team:** None (Changes based on the player they are bound to)
-- **Goal:** Serve the master (the player who holds the Contract).
-- **Minimum Players:** 7
-- **Characteristics:**
-  - The Pirate Captain starts with a "Contract" item, which binds them to a player when thrown and picked up.
-  - The Captain does not directly fight for any team until the Contract is thrown and picked up.
-  - Once a player picks up the Contract, the Captain and all Pirates serve that player as their master.
-  - If the Captain dies, a new Captain is chosen among the Pirates, but they are not bound by the previous Captain's contracts and can search for a new master.
+- **Team:** Piraten
+- **Ziel:** Dem Meister dienen (dem Spieler, der den Vertrag hält).
+- **Mindestspieler:** 7
+- **Merkmale:**
+  - Der Pirate Captain beginnt mit einem "Contract"-Gegenstand, der einen Spieler an sich bindet wenn er geworfen und aufgenommen wird.
+  - Der Captain kämpft nicht direkt für ein Team, bis der Vertrag geworfen und aufgenommen wurde.
+  - Sobald ein Spieler den Vertrag aufnimmt, dienen der Captain und alle Piraten diesem Spieler als ihrem Meister.
+  - Wenn der Captain stirbt wird ein neuer aus den Piraten ausgewählt, die Piraten sind dann an diesen Captain gebunden.
 
 ### Pirate
 
-- **Team:** None (Changes based on the player they are bound to)
-- **Goal:** Serve the master (the player who holds the Contract).
-- **Minimum Players:** 7
-- **Characteristics:**
-  - Pirates fight for the player who holds the Contract, but do not gain any abilities from them.
-  - Pirates do not have their own team and only serve their master.
-  - When the master dies, the Contract is dropped, and whoever picks it up becomes the Pirates' new boss.
+- **Team:** Piraten
+- **Ziel:** Mit dem Pirate Captain zusammen gewinnen.
+- **Mindestspieler:** 7
+- **Merkmale:**
+  - Piraten kämpfen für den Spieler, der den Vertrag hält, erhalten jedoch keine Fähigkeiten von ihm.
+  - Piraten haben kein eigenes Team und dienen nur ihrem Meister.
+  - Wenn der Meister stirbt, wird der Vertrag fallen gelassen, und wer ihn aufnimmt, wird der neue Boss der Piraten.
 
-<small>Source: [Steam Workshop - Pirate Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1737101500)</small>
+<small>Quelle: [Steam Workshop - Pirate Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1737101500)</small>

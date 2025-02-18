@@ -4,12 +4,12 @@ type: docs
 prev: gameplay/Roles/Traitor
 ---
 
-- **Team**: Traitor
-- **Goal**: Wins with traitors
-- **Minimum amount of players**: 6
-- **Characteristics**:
-  - Has a Shop that can be opened by pressing ‘C’. You start with 0 credits.
-  - Starts with a traitor defibrillator (revives players as a traitor)
-  - The defibrillator currently has 2 charges (can revive two players)
+- **Team:** Traitor
+- **Ziel:** Alle nicht-Traitor eliminieren.
+- **Mindestspieler:** 6
+- **Merkmale:**
+  - Hat einen Shop den er mit 'C' öffnen kann. Er startet mit 0 credits.
+  - Startet mit einem Traitor-Defibrillator (belebt Spieler als Traitor wieder)
+  - Der Defibrillator hat 2 Ladungen, damit kann er zwei Spieler wiederbeleben.
 
-<small>Source: [Steam Workshop - Mesmerist Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2137829511)</small>
+<small>Quelle: [Steam Workshop - Mesmerist Rolle](https://steamcommunity.com/sharedfiles/filedetails/?id=2137829511)</small>

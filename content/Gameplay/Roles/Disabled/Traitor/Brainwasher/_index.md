@@ -5,12 +5,12 @@ prev: gameplay/Roles/Traitor
 ---
 
 - **Team:** Traitor
-- **Goal:** Eliminate all non-traitors.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
-- **Characteristics:**
-  - Equipped with a Slave Deagle that converts players into slaves of the Traitors.
-  - If the shot misses, it can be tried again after a cooldown.
-  - If the Brainwasher dies, any converted slaves become Innocents and will reveal the identities of all Traitors.
+- **Ziel:** Alle Nicht-Traitors eliminieren.
+- **Chance:** ?% pro Runde
+- **Mindestspieler:** ?
+- **Merkmale:**
+  - Ausgestattet mit einer Slave Deagle, die Spieler in Sklaven der Traitors verwandelt.
+  - Wenn der Schuss verfehlt, kann er nach einer Abkühlung erneut abgefeuert werden.
+  - Wenn der Brainwasher stirbt, werden alle konvertierten Sklaven zu Innocents und enthüllen die Identitäten aller Traitors.
 
-<small>Source: [Steam Workshop - Brainwasher Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2848900020)</small>
+<small>Quelle: [Steam Workshop - Brainwasher Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2848900020)</small>

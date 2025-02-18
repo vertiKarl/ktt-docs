@@ -5,8 +5,8 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team:** Innocent
-- **Goal:** Eliminate all non-innocents.
+- **Ziel:** Alle Nicht-Unschuldigen eliminieren.
 - **Chance:** ?
-- **Minimum Players:** ?
-- **Characteristics:**
-  - Can see a scrambled version of spectator chat.
+- **Mindestspieler:** ?
+- **Merkmale:**
+  - Kann eine verwürfelte Version des Zuschauer-Chats sehen.

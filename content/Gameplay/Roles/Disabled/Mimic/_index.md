@@ -5,14 +5,14 @@ prev: gameplay/Roles
 weight: 3
 ---
 
-- **Team:** None (Changes after stealing a role)
-- **Goal:** Eliminate everyone.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
-- **Characteristics:**
-  - Can steal the role of another player by using the Interact key ("E" by default) after a short delay.
-  - Joins the team of the stolen role (Innocent for Innocent roles, Traitor for Traitor roles, etc.).
-  - Has no team until they steal a role.
-  - Can change their role multiple times during the round.
+- **Team:** None (Ändert sich nach dem Stehlen einer Rolle)
+- **Ziel:** Alle eliminieren.
+- **Chance:** ?% pro Runde
+- **Mindestspieler:** ?
+- **Merkmale:**
+  - Kann die Rolle eines anderen Spielers stehlen, indem er die Interaktions-Taste (standardmäßig "E") nach einer kurzen Verzögerung drückt.
+  - Tritt dem Team der gestohlenen Rolle bei (Innocent für Innocent-Rollen, Traitor für Traitor-Rollen, usw.).
+  - Hat kein Team, bis sie eine Rolle stehlen.
+  - Kann während der Runde mehrfach die Rolle wechseln.
 
-<small>Source: [Steam Workshop - Mimic Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2339261523)</small>
+<small>Quelle: [Steam Workshop - Mimic Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2339261523)</small>

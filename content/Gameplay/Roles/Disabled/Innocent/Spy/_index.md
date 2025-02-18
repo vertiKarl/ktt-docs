@@ -5,10 +5,10 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team**: Innocent
-- **Goal**: Eliminate all non-innocents
+- **Ziel**: Alle Nicht-Innocents eliminieren
 - **Chance**: ?
-- **Minimum amount of players**: ?
-- **Characteristics**:
-  - Has a Shop that can be opened by pressing 'C'. You start with 0 credit.
-  - Is displayed as a traitor to the other traitors
-  - Does not know who the traitors are
+- **Mindestanzahl an Spielern**: ?
+- **Merkmale**:
+  - Hat einen Shop, der durch Drücken von 'C' geöffnet werden kann. Du startest mit 0 Credits.
+  - Wird den anderen Traitors als Traitor angezeigt.
+  - Weiß nicht, wer die Traitors sind.

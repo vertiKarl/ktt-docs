@@ -5,11 +5,11 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team:** Innocent
-- **Goal:** Eliminate all non-innocents.
-- **Minimum Players:** 6
-- **Characteristics:**
-  - Equipped with a defib that can revive a dead player, but at the cost of the Sacrifice’s life.
-  - Should be used strategically to revive key players, such as a dead detective or an innocent with valuable information.
-  - The defib disappears when the Sacrifice dies.
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
+- **Mindestspieler:** 6
+- **Merkmale:**
+  - Ausgestattet mit einem Defibrillator, der einen toten Spieler wiederbeleben kann, jedoch kostet es ihn das Leben.
+  - Sollte strategisch eingesetzt werden, um wichtige Spieler wie einen toten Detective oder einen Unschuldigen mit wertvollen Informationen wiederzubeleben.
+  - Der Defibrillator verschwindet, wenn das Sacrifice stirbt.
 
-<small>Source: [Steam Workshop - Sacrifice Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2620700649)</small>
+<small>Quelle: [Steam Workshop - Sacrifice Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2620700649)</small>

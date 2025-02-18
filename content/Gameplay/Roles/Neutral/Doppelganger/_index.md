@@ -1,17 +1,17 @@
 ---
 title: Doppelganger
 type: docs
-prev: gameplay/Roles
+prev: gameplay/Roles/Neutral
 weight: 3
 ---
 
-- **Team:** Neutral
-- **Goal:** Eliminate everyone.
-- **Minimum Players:** 8
-- **Characteristics:**
-  - Can steal the role of another player by using the Interact key ("E" by default) after a short delay.
-  - Remains on their own team (Neutral Killer) regardless of the stolen role's team.
-  - Takes on the appearance and function of the stolen role, but does not join that team.
-  - Can change their role multiple times during the round.
+- **Team:** Doppelganger
+- **Ziel:** Alle eliminieren.
+- **Mindestspieler:** 8
+- **Merkmale:**
+  - Kann die Rolle eines anderen Spielers stehlen, indem er die Interaktions-Taste (standardmäßig "E") nach einer kurzen Verzögerung drückt.
+  - Bleibt unabhängig vom gestohlenen Rollenteam im eigenen Team (Neutral Killer).
+  - Übernimmt das Aussehen und die Funktion der gestohlenen Rolle, tritt jedoch nicht diesem Team bei.
+  - Kann seine Rolle während der Runde mehrfach wechseln.
 
-<small>Source: [Steam Workshop - Mimic Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2339261523)</small>
+<small>Quelle: [Steam Workshop - Mimic Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2339261523)</small>

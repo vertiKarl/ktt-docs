@@ -4,15 +4,15 @@ type: docs
 prev: gameplay/Roles/Innocent
 ---
 
-- **Team**: Innocent
-- **Goal**: Eliminate all non-innocents
-- **Minimum amount of players**: 7
-- **Characteristics**:
-  - A previously innocent player has the chance to be revived as shinigami
-  - You are on a timer, as you constantly receive damage
-  - You are not allowed to talk
-  - Has increased movement speed (200%)
-  - Has a knife that does approximately kill with two hits
-  - Gets all alive traitors names displayed
+- **Team:** Innocent
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
+- **Mindestspieler:** 7
+- **Merkmale:**
+  - Ein zuvor Innocent Spieler hat die Chance als Shinigami wiederbelebt zu werden
+  - Er ist an einen Timer gebunden, da er dauerhaft Schaden bekommt
+  - Er darf nicht reden
+  - Hat erhöhte Bewegungsgeschwindigkeit (200%)
+  - Hat ein Messer, dass für gewöhnlich in zwei Hits killt
+  - Ihm werden alle lebenden Traitor im HUD angezeigt
 
-<small>Source: [Steam Workshop - Shinigami Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1687740592)</small>
+<small>Quelle: [Steam Workshop - Shinigami Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1687740592)</small>

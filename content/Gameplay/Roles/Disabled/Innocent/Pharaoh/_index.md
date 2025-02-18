@@ -5,14 +5,14 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team:** Innocent
-- **Goal:** Eliminate all non-innocents.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
-- **Characteristics:**
-  - Starts with an Ankh, a unique item that they can place to be resurrected upon death.
-  - When the Ankh gets placed a random traitor is converted into a [Graverobber](../../traitor/graverobber).
-  - The Ankh heals it's owner if they are close by.
+- **Ziel:** Alle Nicht-Innocents eliminieren.
+- **Chance:** ?% pro Runde
+- **Mindestspieler:** ?
+- **Merkmale:**
+  - Startet mit einem Ankh, einem einzigartigen Item, das sie platzieren können, um nach dem Tod wiederbelebt zu werden.
+  - Wenn das Ankh platziert wird, wird ein zufälliger Traitor in einen [Graverobber](../../traitor/graverobber) umgewandelt.
+  - Das Ankh heilt seinen Besitzer, wenn dieser in der Nähe ist.
 
-Tip: The color of the runes on the Ankh show the team of the current owner!
+Tipp: Die Farbe der Runen auf dem Ankh zeigt das Team des aktuellen Besitzers!
 
-<small>Source: [Steam Workshop - Pharaoh Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2002040119)</small>
+<small>Quelle: [Steam Workshop - Pharaoh Rolle](https://steamcommunity.com/sharedfiles/filedetails/?id=2002040119)</small>

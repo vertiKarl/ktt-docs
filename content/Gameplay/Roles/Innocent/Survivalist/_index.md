@@ -4,11 +4,11 @@ type: docs
 prev: gameplay/Roles/Innocent
 ---
 
-- **Team**: Innocent
-- **Goal**: Survive or eliminate all non-innocents
-- **Minimum of players**: 5
-- **Characteristics**:
-  - Has a Shop that can be opened by pressing 'C'. You start with 1 credit.
-  - You receive additional credits with each confirmed dead evil traitor or by looting bodies of players with unspent credits
+- **Team:** Innocent
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
+- **Mindestspieler:** 5
+- **Besonderheiten:**
+  - Hat einen Shop den er mit 'C' öffnen kann. Er startet mit einem Credit.
+  - Du erhältst zusätzliche Credits wenn Traitor sterben und confirmed werden oder durch looten von Leichen anderer Spieler welche Credits übrig hatten
 
-<small>Source: [Steam Workshop - Survivalist Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1357256725)</small>
+<small>Quelle: [Steam Workshop - Survivalist Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1357256725)</small>

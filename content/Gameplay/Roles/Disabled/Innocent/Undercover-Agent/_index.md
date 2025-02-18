@@ -5,10 +5,10 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team:** Innocent
-- **Goal:** Eliminate all non-innocents.
-- **Chance:** ?% per round
-- **Minimum Players:** ?
-- **Characteristics:**
-  - If a detective dies, the Undercover Agent reveals themselves as a new detective, taking their place.
+- **Ziel:** Alle Nicht-Innocents eliminieren.
+- **Chance:** ?% pro Runde
+- **Mindestspieler:** ?
+- **Merkmale:**
+  - Wenn ein Detective stirbt, enthüllt sich der Undercover Agent als neuer Detective und nimmt dessen Platz ein.
 
-<small>Source: [Steam Workshop - Undercover Agent Role](https://steamcommunity.com/sharedfiles/filedetails/?id=3333304844)</small>
+<small>Quelle: [Steam Workshop - Undercover Agent Role](https://steamcommunity.com/sharedfiles/filedetails/?id=3333304844)</small>

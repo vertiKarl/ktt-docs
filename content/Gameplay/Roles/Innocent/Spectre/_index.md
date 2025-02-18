@@ -5,11 +5,11 @@ prev: gameplay/Roles/Innocent
 ---
 
 - **Team:** Innocent
-- **Goal:** Eliminate all non-innocents.
-- **Minimum Players:** 5
-- **Characteristics:**
-  - When killed, the Spectre haunts their killer.
-  - The haunt is visible as smoke around the attacker.
-  - If the attacker is killed while haunted, the Spectre revives.
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
+- **Mindestspieler:** 5
+- **Merkmale:**
+  - Wenn er ermordet wird, verfolgt der Spectre seinen Mörder.
+  - Die Verfolgung ist als Rauch um den Angreifer sichtbar.
+  - Wenn der Angreifer während der Verfolgung getötet wird, wird der Spectre wiederbelebt.
 
-<small>Source: [Steam Workshop - Spectre Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2138979333)</small>
+<small>Quelle: [Steam Workshop - Spectre Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2138979333)</small>

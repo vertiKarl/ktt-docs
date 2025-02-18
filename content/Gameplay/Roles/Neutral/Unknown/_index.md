@@ -1,17 +1,17 @@
 ---
 title: Unknown
 type: docs
-prev: gameplay/Roles
+prev: gameplay/Roles/Neutral
 weight: 3
 ---
 
-- **Team:** Unknown (Own team)
-- **Goal:** Get killed and join your killer's team.
-- **Minimum Players:** 5
-- **Characteristics:**
-  - The Unknown plays in their own team and loses if they survive until the end of the round.
-  - If the Unknown is killed by another player, they respawn as that player's role and help them win.
-  - This creates a bond of trust between the Unknown and the killer, as they confirm each other's identity.
-  - The Unknown and the killer are now on the same side after the respawn.
+- **Team:** Kein Team
+- **Ziel:** Getötet werden und dem Team des Mörders beitreten.
+- **Mindestspieler:** 5
+- **Merkmale:**
+  - Der Unknown spielt in seinem eigenen Team und verliert, wenn er bis zum Ende der Runde überlebt.
+  - Wenn der Unknown von einem anderen Spieler getötet wird, wird er mit der gleichen Rolle dieses Spielers wiederbelebt um ihn zu unterstützen.
+  - Dies schafft ein Vertrauensverhältnis zwischen dem Unknown und dem Mörder, da sie die Identität des jeweils anderen bestätigen.
+  - Der Unknown und der Mörder sind nach der Wiederbelebung nun auf derselben Seite.
 
 <small>Source: [Steam Workshop - Unknown Role](https://steamcommunity.com/sharedfiles/filedetails/?id=1457185541)</small>

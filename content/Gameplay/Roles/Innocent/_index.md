@@ -6,7 +6,7 @@ weight: 1
 ---
 
 - **Team**: Innocent
-- **Goal:** Survive
-- **Minimum Players:** 1
-- **Characteristics:**
-  - Doesn't have a shop nor any special items
+- **Ziel:** Überleben oder alle nicht-innocents eliminieren
+- **Mindestspieler:** 1
+- **Merkmale:**
+  - Hat keinen Shop und keine speziellen Items

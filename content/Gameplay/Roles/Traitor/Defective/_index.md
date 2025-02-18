@@ -5,11 +5,11 @@ prev: gameplay/Roles/Traitor
 ---
 
 - **Team:** Traitor
-- **Goal:** Eliminate all non-traitors.
-- **Minimum Players:** 7
-- **Characteristics:**
-  - Operates similarly to a regular detective, using the detective's shop and a DNA scanner.
-  - Appears as a detective to those not on their team.
-  - Is a traitor, and will be revealed as such during a traitor test.
+- **Ziel:** Alle nicht-Traitor eliminieren.
+- **Mindestspieler:** 7
+- **Merkmale:**
+  - Arbeitet ähnlich wie ein normaler Detective, verwendet den Shop des Detectives und einen DNA-Scanner.
+  - Erscheint für diejenigen, die nicht zu ihrem Team gehören, als Detective.
+  - Ist ein Traitor und wird als solcher während eines Traitor-Tests enthüllt.
 
-<small>Source: [Steam Workshop - Defective Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2251440528)</small>
+<small>Quelle: [Steam Workshop - Defective Role](https://steamcommunity.com/sharedfiles/filedetails/?id=2251440528)</small>

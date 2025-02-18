@@ -1,128 +1,27 @@
 ---
-title: Roles
+title: Rollen
 type: docs
 prev: gameplay/rules
 sidebar:
   open: true
 ---
 
-## Active roles
+## Aktive Rollen
 
-### Team Innocent
+Alle aktiven Rollen werden auf der linken Seite angezeigt.  
+Für mehr Informationen einfach auf das jeweilige Team klicken oder die Suche oben-rechts auf der Seite nutzen!
 
-- [Innocent](innocent)
-- [Shinigami](innocent/shinigami)
-- [Survivalist](innocent/survivalist)
-- [Wrath](innocent/wrath)
-- [Spectre](innocent/spectre)
-- [Sacrifice](innocent/sacrifice)
+## Rollenverteilung
 
-#### Detective
+Die Nummer in den Klammern zeigt, dass es eine Chance gibt das statt der normalen Verteilung die alternativ Verteilung in den Klammern genutzt wird.
 
-- [Detective](innocent/detective)
-- [Sheriff](innocent/detective/sheriff)
-- [Sniffer](innocent/detective/sniffer)
-- [Defective](traitor/defective)\*
-
-\* also listed under traitor
-
-### Team Traitor
-
-- [Traitor](traitor)
-- [Mesmerist](traitor/mesmerist)
-- [Defective](traitor/defective)\*
-- [Ambusher](traitor/ambusher)
-
-\* also listed under detective
-
-### Neutral
-
-#### Killer Roles
-
-- [Doppelganger](neutral/doppelganger)
-- [Serialkiller](neutral/serialkiller)
-
-#### Just fun
-
-- [Swapper](neutral/swapper)
-- [Pirate](neutral/pirate)
-- [Kobold Hoarder](neutral/kobold-hoarder)
-- [Amnesiac](neutral/amnesiac)
-- [Unknown](neutral/unknown)
-
-## List of all roles
-
-This includes currently disabled ones.
-
-### Team Innocent
-
-- [Innocent](innocent)
-- [Shinigami](innocent/shinigami)
-- [Survivalist](innocent/survivalist)
-- [Wrath](innocent/wrath)
-- [Spectre](innocent/spectre)
-- [Sacrifice](innocent/sacrifice)
-- [Spy](disabled/innocent/spy)
-- [Medium](disabled/innocent/medium)
-- [Pharaoh](disabled/innocent/pharaoh)
-- [Seance](disabled/innocent/seance)
-- [Undercover Agent](disabled/innocent/undercover-agent)
-- [Paranoid](disabled/innocent/paranoid)
-
-#### Detective
-
-- [Detective](innocent/detective)
-- [Sheriff](innocent/detective/sheriff)
-- [Sniffer](innocent/detective/sniffer)
-- [Defective](traitor/defective)\*
-
-\* also listed under traitor
-
-### Traitor
-
-- [Traitor](traitor)
-- [Mesmerist](traitor/mesmerist)
-- [Shanker](disabled/traitor/shanker)
-- [Ambusher](traitor/ambusher)
-- [Arsonist](disabled/traitor/arsonist)
-- [Brainwasher](disabled/traitor/brainwasher)
-- [Fuse](disabled/traitor/fuse)
-- [Gambler](disabled/traitor/gambler)
-- [Defective](traitor/defective)\*
-
-\* also listed under detective
-
-### Neutral
-
-- [Serialkiller](neutral/serialkiller)
-- [Mimic](disabled/neutral/mimic)
-- [Amnesiac](neutral/amnesiac)
-- [Pirate](neutral/pirate)
-- [Unknown](neutral/unknown)
-- [Alien](disabled/neutral/alien)
-- [Kobold Hoarder](disabled/neutral/kobold-hoarder)
-- [Mute](disabled/neutral/mute)
-- [Jackal](disabled/neutral/jackal)
-- [Necromancer](disabled/neutral/necromancer)
-- [Doppelganger](disabled/neutral/doppelganger)
-- [Mimic](disabled/neutral/mimic)
-
-### Jester
-
-- [Jester](disabled/neutral/jester)
-- [Swapper](disabled/neutral/swapper)
-
-## Role Distribution
-
-The numbers in brackets mean that there is a chance that instead of the regular count the one in the bracket is used.
-
-| **Number of Players** | **Traitors** | **Innocent** | **Detective** | **Neutral** |
-| --------------------- | ------------ | ------------ | ------------- | ----------- |
-| 3 Players             | 1            | 2            |               |             |
-| 4 Players             | 1            | 3            |               |             |
-| 5 Players             | 1            | 3            |               | 1           |
-| 6 Players             | 2            | 2            | 1             | 1           |
-| 7 Players             | 2            | 3            | 1             | 1           |
-| 8 Players             | 2            | 4            | 1             | 1           |
-| 9 Players             | 3            | 4            | 1             | 2           |
-| 10 Players            | 3            | 5            | 1             | 2           |
+| **Anzahl Spieler** | **Traitor** | **Innocent** | **Detectives** | **Neutrals** |
+| ------------------ | ----------- | ------------ | -------------- | ------------ |
+| 3 Spieler          | 1           | 2            |                |              |
+| 4 Spieler          | 1           | 3            |                |              |
+| 5 Spieler          | 1           | 3            |                | 1            |
+| 6 Spieler          | 2           | 2            | 1              | 1            |
+| 7 Spieler          | 2           | 3            | 1              | 1            |
+| 8 Spieler          | 2           | 4            | 1              | 1            |
+| 9 Spieler          | 3           | 4            | 1              | 2            |
+| 10 Spieler         | 3           | 5            | 1              | 2            |
