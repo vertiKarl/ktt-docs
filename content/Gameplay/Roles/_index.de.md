@@ -31,7 +31,7 @@ sidebar:
 - [Traitor](traitor)
 - [Mesmerist](traitor/mesmerist)
 - [Defective](traitor/defective)\*
-- [Ambusher](traitor/ambusher)
+- [Shanker]({{<ref"shanker">}})
 
 \* auch unter Detective gelistet
 
