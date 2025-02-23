@@ -78,16 +78,11 @@ Ihr könnt aber auf meinem [Twitch](https://twitch.tv/vertiKarl) vorbeischauen u
 
 ### Die Workshop Kollektion abonnieren
 
-Stelle sicher, dass du nicht nur die Hauptkollektion sondern auch alle verlinkten Kollektionen abonniert hast:  
-https://steamcommunity.com/sharedfiles/filedetails/?id=3381437762
-
-### Überprüfe das Passwort
-
-Stelle sicher, dass das Passwort aktuell ist und du keine Tippfehler drin hast.
+Stelle sicher, dass du nicht nur die Hauptkollektion sondern auch alle verlinkten Kollektionen abonniert hast!
 
 ### Überprüfe deinen DNS und deine Verbindung
 
-Kannst du https://google.com aufrufen?
+Kannst du https://ttt.karlology.eu aufrufen?
 
 <style>
     .sidebar-container {
