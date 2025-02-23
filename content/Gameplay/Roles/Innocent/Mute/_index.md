@@ -1,5 +1,5 @@
 ---
-title: Risen
+title: Mute
 type: docs
 prev: gameplay/Roles/Traitor
 ---
