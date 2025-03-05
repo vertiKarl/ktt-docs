@@ -9,7 +9,8 @@ prev: gameplay/Roles/Traitor
 - **Mindestspieler:** 6
 - **Merkmale:**
   - Ist die ganze Runde stummgeschaltet.
-  - Sieht die Rollen aller Spieler im Scoreboard und wenn er sie anschaut.
+  - Sieht die innocent Rollen aller Spieler im Scoreboard und wenn er sie anschaut.
+  - Macht lediglich 10% des normalen Schadens.
   - Ist [vertiKarl]({{<ref "vertiKarl">}})'s zweite custom Rolle! :)
 
 <small>Quelle: [GitHub - Mute Role](https://github.com/Discord-for-TTT2/dttt-roles)</small>
