@@ -9,6 +9,7 @@ prev: gameplay/Roles/Innocent
 - **Mindestspieler:** 7
 - **Merkmale:**
   - Ein zuvor Innocent Spieler hat die Chance als Shinigami wiederbelebt zu werden
+    - Er kann sich aussuchen ob er am Weltspawn (Leertaste) oder bei seiner Leiche (Taste R) respawnen möchte
   - Er ist an einen Timer gebunden, da er dauerhaft Schaden bekommt
   - Er darf nicht reden
   - Hat erhöhte Bewegungsgeschwindigkeit (200%)
